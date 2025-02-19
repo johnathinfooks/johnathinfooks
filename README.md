@@ -9,10 +9,9 @@
 ## Gender:
   Male
 
-### Coding:
-  ## Languages:
+## Coding Languages:
   ~
-  ## Languages I'm Learning:
+## Languages I'm Learning:
   HTML, CSS, Javascript
-  ## Started coding
+## Started coding
   3 Feb 2025
