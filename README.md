@@ -1,5 +1,5 @@
 ## Website:
-[johnathin.com](johnathin.com)
+[johnathin.com](https://johnathin.com/)
 
 ## Name:
   Johnathin Fooks
