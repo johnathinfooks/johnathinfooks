@@ -20,7 +20,7 @@
   ~
   
 ## Languages I'm Learning:
-  HTML, CSS, Javascript
+  HTML, CSS, Spanish, Javascript
   
 ## Started coding
   3 Feb 2025
