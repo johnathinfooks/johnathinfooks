@@ -8,7 +8,7 @@
   18
   
 ## Occupation:
-  Student; California Polytechnic State University\\
+  Student; California Polytechnic State University <br>
   Electrical Engineering
   
 ## Location:
