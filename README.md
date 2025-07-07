@@ -9,6 +9,7 @@
   
 ## Occupation:
   Student; California Polytechnic State University
+  Electrical Engineering
   
 ## Location:
   Bothell, Washington
