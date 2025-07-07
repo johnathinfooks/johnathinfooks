@@ -8,19 +8,16 @@
   18
   
 ## Occupation:
-  Student; North Creek High School
+  Student; California Polytechnic State University
   
 ## Location:
-  Bothell Washington
+  Bothell, Washington
   
 ## Gender:
   Male
 
 ## Coding Languages:
   ~
-  
-## Languages I'm Learning:
-  HTML, CSS, Spanish, Javascript, Python
   
 ## Started coding
   3 Feb 2025
