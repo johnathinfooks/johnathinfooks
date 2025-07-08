@@ -16,9 +16,6 @@
   
 ## Gender:
   Male
-
-## Coding Languages:
-  ~
   
 ## Started coding
   3 Feb 2025
