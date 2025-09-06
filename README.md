@@ -11,9 +11,6 @@
   Student; California Polytechnic State University <br>
   Electrical Engineering
   
-## Location:
-  Bothell, Washington
-  
 ## Gender:
   Male
   
