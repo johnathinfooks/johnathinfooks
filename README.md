@@ -1,12 +1,7 @@
-## Website:
-[johnathin.com](https://johnathin.com/)
-
-## Name:
-  Johnathin Fooks
-  
-## Occupation:
-  Student; California Polytechnic State University <br>
-  Electrical Engineering
-  
-## Started coding
-  3 Feb 2025 :)
+### Johnathin Fooks
+I like to make computers do things 💯🔥
+### Occupation
+Student 🤓; California Polytechnic State University, Computer Engineering
+### Contact
+Email (professional 🧐): johnathinfooks@gmail.com
+Discord (personal 😄): drethis
