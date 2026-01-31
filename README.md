@@ -1,5 +1,5 @@
 ### Johnathin Fooks
-I like to make computers do things 💯🔥
+I like making computers do things 💯🔥
 ### Occupation
 Student 🤓; California Polytechnic State University, Computer Engineering
 ### Contact
